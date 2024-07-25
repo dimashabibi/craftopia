@@ -15,7 +15,7 @@
                     lebih indah. Menyulam berasal dari bahasa sunda yang disebut “ngabordel”, yang berarti membuat
                     hiasan pada kain dengan benang-benang yang berwarna-warni. Teknik dasar menyulam menyerupaiteknik dasar anyaman renggang yaitu makrame. Menyulam menggunakan tangan akan jauh lebihdihargai daripada sulaman melalui mesin karena beberapa teknik tidak dapat ditiru mesin
                 </p>
-                <p class="lh-base">Menyulam selain terkenal di luar negeri, juga dikenal secara global, disebut embroidery. Pembagiansulam pun terdapat beberapa jenis berdasarkan kategori bahannya yaitu:
+                <p class="lh-base">Menyulam selain terkenal di luar negeri, juga dikenagitl secara global, disebut embroidery. Pembagiansulam pun terdapat beberapa jenis berdasarkan kategori bahannya yaitu:
                     Menyulam dengan Pita (Embroidery Stitch)
                     Pita sebagai bahan dasar menyulam sudah terkenal sejak abad ke-17. Menyulam menggunakanbahan dasar pita mempunyai beberapa nama yaitu Embroidery Stitch dan Ribbon Embroidery.Perbedaan menyulam dengan pita dan menyulam dengan biasa terdapat pada bahan dan polanya.Sulam pita sendiri terdiri dari 2 jenis aliran berdasarkan asalnya, yaitu:
                 </p>
