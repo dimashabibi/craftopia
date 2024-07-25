@@ -1,0 +1,33 @@
+.sampul {
+    width: 60px ;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+
+}
+.edit-your-name,
+.info-divider {
+  color: gray;
+  margin-top: 10px;
+
+}
+.username_profil{
+  color: gray;
+  margin-top: 10px;
+  max-width: 380px;
+}
+.email{
+  color: gray;
+  max-width: 380px;
+}
+.password_profil{
+  color: gray;
+  margin-top: 15px;
+}
+.projects {
+  width: 700px;
+}
+.instagram_logo{
+  width: 50px;
+}
